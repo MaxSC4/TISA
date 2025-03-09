@@ -1,0 +1,21 @@
+# Core dependencies
+numpy
+pandas
+opencv-python
+scikit-image
+scikit-learn
+pillow
+matplotlib
+
+# GUI dependencies
+pyqt5
+pyqtgraph
+
+# Machine Learning / Deep Learning
+tensorflow
+torch
+torchvision
+
+# Optional utilities
+tqdm
+psutil
