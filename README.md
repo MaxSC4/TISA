@@ -1,6 +1,7 @@
 # TISA - Thin-section Image Segmenter & Analyzer
 
 🚀 **TISA** (Thin-section Image Segmenter & Analyzer) is an advanced tool for automated segmentation and analysis of petrographic thin sections. It enables efficient identification and classification of mineral grains using state-of-the-art segmentation algorithms.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14996768.svg)](https://doi.org/10.5281/zenodo.14996768)
 
 ---
 
@@ -81,8 +82,9 @@ TISA/
 TISA builds upon **PetroSeg**, originally developed by **Azzam et al.** 
 
 Reference:
-📄 *Azzam et al.,- Automated petrographic image analysis by supervised and* 
-*unsupervised machine learning methods - 2024 - Sedimentologika*
+📄 Azzam, F., Blaise, T., & Brigaud, B. (2024). Automated petrographic image analysis by super-
+vised and unsupervised machine learning methods. *Sedimentologika, 2(2).*
+[PetroSeg GitHub Repo](https://github.com/fazzam12345/PetroSeg)
 
 ---
 
@@ -92,6 +94,13 @@ If you’d like to contribute to **TISA**, feel free to:
 - Contribute code by **forking the repository and submitting Pull Requests**.
 - Share petrographic datasets to enhance segmentation capabilities.
 
+---
+
+## 📄 Citation
+If you use this project, please cite as follows:
+```latex
+SOARES CORREIA, M. (2025). TISA v1.0.0 - Thin-section Image Segmenter and Analyzer. Université Paris-Saclay. https://doi.org/10.5281/zenodo.14996768
+```
 ---
 
 ## 📄 License
