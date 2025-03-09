@@ -1,7 +1,7 @@
 # TISA - Thin-section Image Segmenter & Analyzer
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14996768.svg)](https://doi.org/10.5281/zenodo.14996768)
 
 🚀 **TISA** (Thin-section Image Segmenter & Analyzer) is an advanced tool for automated segmentation and analysis of petrographic thin sections. It enables efficient identification and classification of mineral grains using state-of-the-art segmentation algorithms.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14996768.svg)](https://doi.org/10.5281/zenodo.14996768)
 
 ---
 
